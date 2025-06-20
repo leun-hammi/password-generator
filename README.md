@@ -1,2 +1,3 @@
-hi...🖤
-this project helps us to make a strong password with our preferenced no.of letters, symbols, numbers...😊
+PASSWORD GENERATOR🔐
+   This is the password generator I created. It helps you to make a strong and secure password with your preferenced no.of letters, symbols, numbers...
+
